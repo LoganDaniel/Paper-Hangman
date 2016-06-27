@@ -1,0 +1,206 @@
+F:\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll
+F:\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.pdb
+F:\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan.apk
+F:\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan-Signed.apk
+F:\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll
+F:\PaperHangMan\PaperHangMan\bin\Debug\SQLitePCL.raw.dll
+F:\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll.mdb
+F:\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.csprojResolveAssemblyReference.cache
+F:\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll
+F:\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.pdb
+F:\PaperHangMan\PaperHangMan\obj\Debug\android\bin\PaperHangMan.PaperHangMan.apk
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmangame.xml
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\layout\main.xml
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\values\strings.xml
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\icon.png
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\paperbackground.jpg
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gamebackground.jpg
+F:\PaperHangMan\PaperHangMan\obj\Debug\res\values\style.xml
+F:\PaperHangMan\PaperHangMan\obj\Debug\R.cs.flag
+F:\PaperHangMan\PaperHangMan\obj\Debug\uploadflags.txt
+F:\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll.mdb
+F:\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.pdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan.apk
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan-Signed.apk
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\FormsViewGroup.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.csprojResolveAssemblyReference.cache
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.pdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\android\bin\PaperHangMan.PaperHangMan.apk
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmangame.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\leaderboarddesign.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\customrow.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\main.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\values\strings.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\icon.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\paperbackground.jpg
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gamebackground.jpg
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\values\style.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_1.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_2.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_3.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_4.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_5.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_6.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_7.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_8.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_9.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg_hover.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\list_selector.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\arrowright.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\R.cs.flag
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\uploadflags.txt
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmansplash.xml
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\splashscreen.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangmanlogo.png
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll.mdb
+C:\Users\Logan Daniel\Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll.mdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan.apk
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan-Signed.apk
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\FormsViewGroup.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\SQLitePCL.raw.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Android.Support.v4.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Platform.Android.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.pdb
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\android\bin\PaperHangMan.PaperHangMan.apk
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmangame.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\leaderboarddesign.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\customrow.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmansplash.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\layout\main.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\values\strings.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\icon.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\paperbackground.jpg
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gamebackground.jpg
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\values\style.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_1.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_2.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_3.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_4.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_5.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_6.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_7.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_8.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_9.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg_hover.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\list_selector.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg.xml
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\splashscreen.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangmanlogo.png
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\R.cs.flag
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\uploadflags.txt
+\\telmar\users\lk012\My Documents\Visual Studio 2015\Projects\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.csprojResolveAssemblyReference.cache
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.csprojResolveAssemblyReference.cache
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.pdb
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.pdb
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan.apk
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan-Signed.apk
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\FormsViewGroup.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\SQLitePCL.raw.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Android.Support.v4.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Platform.Android.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.dll
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll.mdb
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\android\bin\PaperHangMan.PaperHangMan.apk
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmangame.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\leaderboarddesign.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\customrow.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmansplash.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\main.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\values\strings.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\icon.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\paperbackground.jpg
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gamebackground.jpg
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\values\style.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_1.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_2.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_3.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_4.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_5.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_6.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_7.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_8.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_9.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg_hover.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\list_selector.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg.xml
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\arrowright.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\splashscreen.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangmanlogo.png
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\R.cs.flag
+S:\Software\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\uploadflags.txt
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.pdb
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan.apk
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.PaperHangMan-Signed.apk
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\FormsViewGroup.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\SQLitePCL.raw.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\SQLite-net.dll.mdb
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.csprojResolveAssemblyReference.cache
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.pdb
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\android\bin\PaperHangMan.PaperHangMan.apk
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmangame.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\leaderboarddesign.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\customrow.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\hangmansplash.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\layout\main.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\values\strings.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\icon.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\paperbackground.jpg
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gamebackground.jpg
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\values\style.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_1.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_2.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_3.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_4.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_5.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_6.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_7.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_8.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangman_9.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg_hover.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\list_selector.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\gradient_bg.xml
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\arrowright.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\splashscreen.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\res\drawable\hangmanlogo.png
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\R.cs.flag
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\uploadflags.txt
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\obj\Debug\PaperHangMan.dll.mdb
+C:\Users\LoganDaniel\Documents\Vision College\Submissions\Logan Kawiti\Assessment\Assessment 5\PaperHangMan\PaperHangMan\bin\Debug\PaperHangMan.dll.mdb

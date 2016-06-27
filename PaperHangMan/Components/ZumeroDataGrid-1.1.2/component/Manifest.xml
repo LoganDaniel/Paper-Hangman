@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="ZumeroDataGrid">
+  <name>DataGrid for Xamarin.Forms</name>
+  <publisher>Zumero</publisher>
+  <publisher-url>http://zumero.com</publisher-url>
+  <version>1.1.2</version>
+  <summary>A Xamarin.Forms control for displaying data in rows and columns</summary>
+  <packages>
+    <package id="Xamarin.Forms" version="1.4.0.6341" framework="ios-unified" />
+    <package id="Xamarin.Forms" version="1.4.0.6341" framework="pcl" />
+    <package id="Xamarin.Forms" version="1.4.0.6341" framework="android" />
+    <package id="Xamarin.Forms" version="1.4.0.6341" framework="ios" />
+    <package id="Xamarin.Forms" version="1.4.0.6341" framework="wp8" />
+  </packages>
+  <screenshots>
+    <img src="screenshots/android.png" title="android" />
+    <img src="screenshots/iOS.png" title="iOS" />
+    <img src="screenshots/winphone.png" title="winphone" />
+    <img src="screenshots/presidents_iPadAir.png" title="presidents_iPadAir" />
+  </screenshots>
+  <samples>
+    <sample id="samples">
+      <name>DataGrid Samples</name>
+      <summary>DataGrid Samples</summary>
+    </sample>
+  </samples>
+</component>

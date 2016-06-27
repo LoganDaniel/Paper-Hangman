@@ -1,0 +1,8 @@
+PaperHangMan.HangmanGameCode, PaperHangMan;md549d4e89a586d1a7cf6f15c7bcae7fc7d.HangmanGameCode
+PaperHangMan.HangmanGameCode, PaperHangMan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md549d4e89a586d1a7cf6f15c7bcae7fc7d.HangmanGameCode
+PaperHangMan.HangmanGameCode;md549d4e89a586d1a7cf6f15c7bcae7fc7d.HangmanGameCode
+paperhangman.HangmanGameCode;md549d4e89a586d1a7cf6f15c7bcae7fc7d.HangmanGameCode
+PaperHangMan.MainActivity, PaperHangMan;md549d4e89a586d1a7cf6f15c7bcae7fc7d.MainActivity
+PaperHangMan.MainActivity, PaperHangMan, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md549d4e89a586d1a7cf6f15c7bcae7fc7d.MainActivity
+PaperHangMan.MainActivity;md549d4e89a586d1a7cf6f15c7bcae7fc7d.MainActivity
+paperhangman.MainActivity;md549d4e89a586d1a7cf6f15c7bcae7fc7d.MainActivity

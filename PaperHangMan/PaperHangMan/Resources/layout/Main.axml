@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/paperbackground"
+    android:gravity="center_vertical">
+    <TextView
+        android:text="Hangman"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblTitle"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="50dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp">
+        <Button
+            android:text="Singleplayer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/btnSingle"
+            android:layout_marginRight="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="30dp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/transparent"
+            android:textSize="30dp" />
+        <Button
+            android:text="Multiplayer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnMulti"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="35dp"
+            android:textColor="@android:color/black"
+            android:textSize="30dp"
+            android:background="@android:color/transparent" />
+        <Button
+            android:text="Leaderboard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnLeaderboard"
+            android:layout_marginRight="45dp"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="35dp"
+            android:gravity="center"
+            android:textColor="@android:color/black"
+            android:textSize="30dp"
+            android:background="@android:color/transparent" />
+        <Button
+            android:text="Quit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnQuit"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="35dp"
+            android:textColor="@android:color/black"
+            android:textSize="30dp"
+            android:background="@android:color/transparent" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Promt">Enter your Name!</string>
+  <string name="SelectWord">e.g Hangman (max 10 Char)</string>
+     <string name="library_name">Datag</string>
+</resources>
